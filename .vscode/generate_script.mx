@@ -1,5 +1,5 @@
 
-config load c:\stm32cubeidefiles\VSCode_TinyUSB_Projs/PS3HIDTinyUSB.ioc
-project generate c:\stm32cubeidefiles\VSCode_TinyUSB_Projs
+config load c:\stm32cubeidefiles\PS3-HID_CONTROLLER_STM32-TINYUSB/PS3HIDTinyUSB.ioc
+project generate c:\stm32cubeidefiles\PS3-HID_CONTROLLER_STM32-TINYUSB
 exit
 		
